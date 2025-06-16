@@ -64,6 +64,17 @@ This repository contains comprehensive source documentation for the **Lot A-2 Pr
   - Detailed metes and bounds descriptions
 - **Legal Significance**: Establishes professional standards and proper recording that both title company and surveyor failed to discover
 
+#### **📋 `historical_documents/1984_butts_county_public_record/`** - Complete 1984 Public Records
+- **Summary**: `summary.md` - Professional analysis of 1984 documentation quality and legal significance
+- **Full Documentation**: `1984_full_plat_documentation.txt` - Complete extracted plat text with all legal descriptions
+- **Key Elements**:
+  - Complete metes and bounds for 107+ acre subdivision
+  - Professional surveyor certification (Registered Surveyor No. 1507)
+  - Precise bearings to seconds of arc and distances to hundredths of feet
+  - Multiple iron pin and monument references
+  - Proper Butts County recording (Book 8, Pages 196-198)
+- **Legal Significance**: Demonstrates professional standards and detailed public records that both defendants completely failed to discover despite 37+ years of availability
+
 #### **📄 `historical_documents/2021_closing_documents.md`** - Title Insurance Evidence
 - **Description**: HUD-1 Settlement Statement & title insurance analysis
 - **Key Elements**:
