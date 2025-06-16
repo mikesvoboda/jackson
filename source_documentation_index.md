@@ -64,6 +64,16 @@ This repository contains comprehensive source documentation for the **Lot A-2 Pr
   - Detailed metes and bounds descriptions
 - **Legal Significance**: Establishes professional standards and proper recording that both title company and surveyor failed to discover
 
+#### **📄 `historical_documents/2021_closing_documents.md`** - Title Insurance Evidence
+- **Description**: HUD-1 Settlement Statement & title insurance analysis
+- **Key Elements**:
+  - Jackson Title Company, LLC policy: $10,000 coverage
+  - Warranty deed language: "SUBJECT TO ALL EASEMENTS AND RESTRICTIVE COVENANTS OF RECORD, IF ANY"
+  - Georgia Power Company mentioned as property boundary
+  - Settlement date: August 19, 2021
+- **Legal Significance**: Ironclad proof of title insurance coverage and duty to discover recorded easements
+- **Source File**: `historical_documents/2021_08_19_11_01_39 (3).txt`
+
 ---
 
 ### **5. EVIDENCE ANALYSIS**
@@ -115,7 +125,8 @@ This repository contains comprehensive source documentation for the **Lot A-2 Pr
 - **`data/raw/second_survey.jpg`** - Second survey image
 
 #### **📄 Closing Documents**
-- **`2021_08_19_11_01_39 (3).txt`** - HUD-1 settlement statement and closing documents
+- **`historical_documents/2021_08_19_11_01_39 (3).txt`** - HUD-1 settlement statement and closing documents
+- **Analysis**: `historical_documents/2021_closing_documents.md`
 - Shows title insurance coverage and warranty deed terms
 
 #### **📋 Analysis Files**
