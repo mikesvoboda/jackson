@@ -53,7 +53,8 @@
 - **[Damage Visualizations](02_analysis/damages/)** - Multiple charts showing construction impact scenarios
 
 ### **Professional Failure Analysis**
-- **[Title Insurance Failure](02_analysis/title_insurance/jackson_title_failure_analysis.md)** - 37-year-old easement miss, industry standards violations
+- **[Title Insurance Failure](02_analysis/title_insurance/jackson_title_failure_analysis.md)** - **🚨 SMOKING GUN**: 37-year-old easement miss, industry standards violations
+- **[Georgia Power Coordination & Liability Analysis](02_analysis/georgia_power/coordination_and_liability_analysis.md)** - **🚨 SMOKING GUN**: Utility trespass, surveyor coordination, joint fraud liability
 - **[Case Timeline](#-comprehensive-case-timeline)** - Complete chronology from 1984 to present with evidence links (integrated below)
 
 ### **Visual Evidence**
