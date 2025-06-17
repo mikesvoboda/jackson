@@ -91,6 +91,16 @@ Plaintiffs, MICHAEL SVOBODA and BROOKE SVOBODA, husband and wife, sue Defendant 
 
 **18.** This constitutes intentional fraud in professional documentation, as Defendant knowingly misrepresented a placed pin as a found pin.
 
+### **C-1. Suspicious Circumstances Suggesting External Pressure**
+
+**18-A.** Upon information and belief, the circumstances surrounding Defendant's return to the Property to place the termination pin suggest external pressure or coordination with other parties.
+
+**18-B.** Professional surveyors do not typically return to perform additional unpaid field work after completing and delivering a survey unless compelled by external circumstances.
+
+**18-C.** The suspicious timing of Defendant's second site visit - after the initial survey showed no easement termination - followed by the sudden "discovery" of a pin marked as "IPF" suggests coordination designed to establish an easement path favorable to Georgia Power Company's interests.
+
+**18-D.** No reasonable professional explanation exists for Defendant's voluntary return to perform additional costly field work, suggesting external pressure, compensation, or coordination that Defendant has concealed from Plaintiffs.
+
 ### **D. Coordinate Misdirection Fraud and Professional Deception**
 
 **19.** Analysis of Defendant's coordinate claims reveals sophisticated professional fraud designed to conceal incomplete survey work.
@@ -161,81 +171,86 @@ Plaintiffs, MICHAEL SVOBODA and BROOKE SVOBODA, husband and wife, sue Defendant 
 
 **40.** **Professional Fees**: Plaintiffs have incurred and will continue to incur costs for independent surveys, legal fees, and expert witnesses to address Defendant's professional failures.
 
+**41.** **Conspiracy and Coordination Damages**: Upon information and belief, Defendant's suspicious conduct suggests coordination with other parties to create fraudulent documentation, potentially subjecting Defendant to enhanced damages for conspiracy and joint liability with co-conspirators.
+
 ---
 
 ## IV. CAUSES OF ACTION
 
 ### **COUNT I - PROFESSIONAL MALPRACTICE**
 
-**41.** Plaintiffs reallege and incorporate paragraphs 1-40.
+**42.** Plaintiffs reallege and incorporate paragraphs 1-41.
 
-**42.** Defendant owed Plaintiffs a professional duty to conduct surveying services in accordance with applicable professional standards.
+**43.** Defendant owed Plaintiffs a professional duty to conduct surveying services in accordance with applicable professional standards.
 
-**43.** Defendant breached this duty by:
+**44.** Defendant breached this duty by:
    a. Failing to discover recorded easements through proper research
    b. Providing incomplete survey work without easement termination points
    c. Engaging in coordinate misdirection fraud to conceal incomplete work
-   d. Abandoning professional responsibilities and refusing to correct errors
+   d. Potentially coordinating with other parties to create fraudulent documentation
+   e. Abandoning professional responsibilities and refusing to correct errors
 
-**44.** Defendant's conduct fell below the standard of care required of professional surveyors in Georgia.
+**45.** Defendant's conduct fell below the standard of care required of professional surveyors in Georgia.
 
-**45.** As a direct and proximate result of Defendant's coordinate misdirection fraud and professional malpractice, Plaintiffs have suffered damages in excess of $700,000, with punitive damages warranted due to the deliberate fraudulent nature of Defendant's conduct.
+**46.** As a direct and proximate result of Defendant's coordinate misdirection fraud and professional malpractice, Plaintiffs have suffered damages in excess of $700,000, with punitive damages warranted due to the deliberate fraudulent nature of Defendant's conduct.
 
 **WHEREFORE**, Plaintiffs demand judgment against Defendant for compensatory damages, pre-judgment interest, costs, and such other relief as the Court deems just and proper.
 
 ### **COUNT II - FRAUD AND COORDINATE MISDIRECTION**
 
-**46.** Plaintiffs reallege and incorporate paragraphs 1-45.
+**47.** Plaintiffs reallege and incorporate paragraphs 1-46.
 
-**47.** Defendant knowingly made false representations by:
+**48.** Defendant knowingly made false representations by:
    a. Marking a placed pin as "IPF" (Iron Pin Found)
    b. **Coordinate Misdirection**: Providing coordinates for property center while claiming they were for easement termination
    c. Claiming "exact coordinates" for termination pin while deliberately providing wrong location
    d. Representing complete survey work while omitting material easements
    e. Concealing incomplete boundary survey through coordinate deception
+   f. Concealing external pressure or coordination that motivated the fraudulent conduct
 
-**48.** Defendant knew these representations were false at the time they were made, specifically knowing that:
+**49.** Defendant knew these representations were false at the time they were made, specifically knowing that:
    a. The provided coordinates pointed to the wrong location (property center vs. boundary)
    b. Professional survey standards require accurate location identification
    c. The easement termination remained undefined despite claims of completion
 
-**49.** Defendant made these representations with intent to deceive Plaintiffs and conceal incomplete professional work.
+**50.** Defendant made these representations with intent to deceive Plaintiffs and conceal incomplete professional work.
 
-**50.** Plaintiffs justifiably relied on Defendant's professional representations regarding coordinate accuracy and survey completeness.
+**51.** Plaintiffs justifiably relied on Defendant's professional representations regarding coordinate accuracy and survey completeness.
 
-**51.** As a direct result of Defendant's coordinate misdirection fraud, Plaintiffs have suffered substantial damages exceeding $700,000.
+**52.** As a direct result of Defendant's coordinate misdirection fraud, Plaintiffs have suffered substantial damages exceeding $700,000.
 
 **WHEREFORE**, Plaintiffs demand judgment against Defendant for compensatory damages, punitive damages, attorney's fees, costs, and such other relief as the Court deems just and proper.
 
 ### **COUNT III - BREACH OF CONTRACT**
 
-**52.** Plaintiffs reallege and incorporate paragraphs 1-51.
+**53.** Plaintiffs reallege and incorporate paragraphs 1-52.
 
-**53.** The surveying services agreement constituted a contract between Plaintiffs and Defendant.
+**54.** The surveying services agreement constituted a contract between Plaintiffs and Defendant.
 
-**54.** Defendant breached the contract by:
+**55.** Defendant breached the contract by:
    a. Failing to provide complete and accurate survey services
    b. Failing to discover recorded easements affecting the Property
    c. Engaging in coordinate misdirection to conceal incomplete work
-   d. Abandoning the project and refusing to provide corrections
+   d. Potentially prioritizing third-party interests over contractual obligations to Plaintiffs
+   e. Abandoning the project and refusing to provide corrections
 
-**55.** As a direct result of Defendant's breach, Plaintiffs have suffered substantial damages.
+**56.** As a direct result of Defendant's breach, Plaintiffs have suffered substantial damages.
 
 **WHEREFORE**, Plaintiffs demand judgment against Defendant for compensatory damages, consequential damages, attorney's fees, costs, and such other relief as the Court deems just and proper.
 
 ### **COUNT IV - NEGLIGENT MISREPRESENTATION**
 
-**56.** Plaintiffs reallege and incorporate paragraphs 1-55.
+**57.** Plaintiffs reallege and incorporate paragraphs 1-56.
 
-**57.** Defendant represented that it had conducted a complete and professional survey of the Property.
+**58.** Defendant represented that it had conducted a complete and professional survey of the Property.
 
-**58.** Defendant knew or should have known that Plaintiffs would rely on its professional representations in making development decisions.
+**59.** Defendant knew or should have known that Plaintiffs would rely on its professional representations in making development decisions.
 
-**59.** Defendant's representations were false and misleading, including coordinate misdirection and incomplete boundary work.
+**60.** Defendant's representations were false and misleading, including coordinate misdirection and incomplete boundary work.
 
-**60.** Plaintiffs justifiably relied on Defendant's representations to their detriment.
+**61.** Plaintiffs justifiably relied on Defendant's representations to their detriment.
 
-**61.** As a direct result, Plaintiffs have suffered substantial damages.
+**62.** As a direct result, Plaintiffs have suffered substantial damages.
 
 **WHEREFORE**, Plaintiffs demand judgment against Defendant for compensatory damages, consequential damages, costs, and such other relief as the Court deems just and proper.
 
