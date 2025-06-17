@@ -135,14 +135,16 @@ This repository contains comprehensive source documentation for the **Lot A-2 Pr
 
 ### **6. TIMELINE DOCUMENTATION**
 
-#### **📅 `timeline/case_timeline.md`** - Comprehensive Chronology
-- **Description**: Complete timeline from 1984 Georgia Power deed to present
+#### **📅 Main README Timeline** - Comprehensive Chronology
+- **Description**: Complete timeline from 1984 Georgia Power deed to present (integrated into main README.md)
+- **Location**: See [Comprehensive Case Timeline](../README.md#-comprehensive-case-timeline) in main project README
 - **Key Periods**:
   - **1984**: Historical foundation and proper recording
   - **2021**: Property purchase and title insurance failure
-  - **2022**: Survey failure, discovery, and professional abandonment
+  - **2022**: Survey failure, discovery, professional abandonment, and Georgia Power coordination
+  - **2023**: Georgia Power strategic documentation with Jordan Engineering survey
   - **2022-2025**: Construction delays and damage accumulation
-- **Legal Significance**: Demonstrates 37-year gap between proper recording and professional failures
+- **Legal Significance**: Demonstrates 37-year gap between proper recording and professional failures, enhanced fraud discovery, and coordinated bad faith conduct
 
 ---
 
@@ -194,7 +196,7 @@ This repository contains comprehensive source documentation for the **Lot A-2 Pr
 4. **Check `damages/damage_analysis.md`** - Financial impact scope
 
 ### **For Case Preparation**:
-1. **Use `timeline/case_timeline.md`** - Chronological case development
+1. **Use [Main README Timeline](../README.md#-comprehensive-case-timeline)** - Chronological case development
 2. **Reference `historical_documents/1984_georgia_power_deed.md`** - Historical foundation
 3. **Study `02_analysis/coordinate_fraud/comprehensive_coordinate_fraud_analysis.md`** - Complete fraud evidence analysis
 4. **Review supporting data files** as needed for expert testimony

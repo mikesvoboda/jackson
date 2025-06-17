@@ -54,7 +54,7 @@
 
 ### **Professional Failure Analysis**
 - **[Title Insurance Failure](02_analysis/title_insurance/jackson_title_failure_analysis.md)** - 37-year-old easement miss, industry standards violations
-- **[Case Timeline](02_analysis/timeline/case_timeline.md)** - Complete chronology from 1984 to present with evidence links
+- **[Case Timeline](#-comprehensive-case-timeline)** - Complete chronology from 1984 to present with evidence links (integrated below)
 
 ### **Visual Evidence**
 - **[Enhanced Survey Comparison](02_analysis/coordinate_fraud/geometry_comparisons/enhanced_survey_comparison.png)** - Professional vs. actual survey standards
