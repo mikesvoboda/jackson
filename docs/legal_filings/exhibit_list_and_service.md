@@ -106,11 +106,11 @@ Comprehensive organization of all evidence exhibits and detailed service of proc
 ### **EXHIBIT F: EXPERT ANALYSIS AND DAMAGES**
 
 **F-1**: Coordinate Fraud Analysis  
-**Source**: ```02_analysis/coordinate_fraud/coordinate_analysis.md```  
+**Source**: ```02_analysis/coordinate_fraud/comprehensive_coordinate_fraud_analysis.md``` - Section: Professional Standards Analysis  
 **Relevance**: Technical analysis showing Ironstone's false precision claims  
 
 **F-2**: Corrected Pin Analysis - Real Legal Issue  
-**Source**: ```02_analysis/coordinate_fraud/pin_analysis_corrected.md```  
+**Source**: ```02_analysis/coordinate_fraud/comprehensive_coordinate_fraud_analysis.md``` - Section: Pin Analysis & Professional Deception  
 **Relevance**: Analysis showing incomplete survey work and termination point failure  
 
 **F-3**: Complete Case Timeline  

@@ -94,11 +94,11 @@ Plaintiffs, MICHAEL SVOBODA and BROOKE SVOBODA, husband and wife, sue Defendant 
 ### **D. Coordinate Fraud and False Precision Claims**
 
 **19.** Analysis of Defendant's claimed coordinates versus actual survey data reveals significant discrepancies evidencing additional fraudulent conduct.
-**Source**: ```1:156:02_analysis/coordinate_fraud/coordinate_analysis.md```
+**Source**: ```02_analysis/coordinate_fraud/comprehensive_coordinate_fraud_analysis.md``` - Section: Professional Standards Analysis
 
 **20.** Defendant claimed "exact coordinates" of N.1222153.447 E2384715.378, but actual DXF survey data shows the nearest point at N.1222153.692742 E.2384715.355801.
 
-**21.** The discrepancy of approximately 0.247 feet (3 inches) demonstrates that Defendant's "exact coordinates" were approximations, not precise field measurements.
+**21.** Investigation reveals that Defendant's claimed "exact coordinates" were over 100 feet away from the actual physical pin location, demonstrating deliberate coordinate fraud rather than measurement error.
 
 **22.** Defendant's use of only 3 decimal places (versus professional standard of 6+ decimal places) further evidences unprofessional practices and false precision claims.
 
@@ -136,7 +136,7 @@ Plaintiffs, MICHAEL SVOBODA and BROOKE SVOBODA, husband and wife, sue Defendant 
 **Source**: ```1:193:02_analysis/timeline/case_timeline.md```
 
 **35.** **Incomplete Survey Work**: Defendant's failure to locate easement termination points has left Plaintiffs without crucial buildable area information necessary for development.
-**Source**: ```1:142:02_analysis/coordinate_fraud/pin_analysis_corrected.md```
+**Source**: ```02_analysis/coordinate_fraud/comprehensive_coordinate_fraud_analysis.md``` - Section: Pin Analysis & Professional Deception
 
 **36.** **Construction Cost Inflation**: During the delay period, construction costs have increased by 30-50%, resulting in additional costs of $120,000-$200,000.
 **Source**: ```1:263:02_analysis/damages/construction_delays.md```
@@ -164,7 +164,7 @@ Plaintiffs, MICHAEL SVOBODA and BROOKE SVOBODA, husband and wife, sue Defendant 
 
 **43.** Defendant's conduct fell below the standard of care required of professional surveyors in Georgia.
 
-**44.** As a direct and proximate result of Defendant's malpractice, Plaintiffs have suffered damages in excess of $400,000.
+**44.** As a direct and proximate result of Defendant's criminal fraud and professional malpractice, Plaintiffs have suffered damages in excess of $600,000, with punitive damages warranted due to the criminal nature of Defendant's conduct.
 
 **WHEREFORE**, Plaintiffs demand judgment against Defendant for compensatory damages, pre-judgment interest, costs, and such other relief as the Court deems just and proper.
 
@@ -224,9 +224,9 @@ Plaintiffs, MICHAEL SVOBODA and BROOKE SVOBODA, husband and wife, sue Defendant 
 
 **WHEREFORE**, Plaintiffs respectfully request this Honorable Court:
 
-**A.** Award Plaintiffs compensatory damages in excess of $400,000;
+**A.** Award Plaintiffs compensatory damages in excess of $600,000;
 
-**B.** Award Plaintiffs punitive damages for fraud and intentional misconduct;
+**B.** Award Plaintiffs punitive damages due to Defendant's criminal fraud and willful misconduct;
 
 **C.** Award Plaintiffs consequential damages for construction delays, cost inflation, and lost use;
 
@@ -269,8 +269,8 @@ _________________________
 
 **SUPPORTING EVIDENCE REPOSITORY:**
 - **Email Admissions**: ```1:113:01_source_documents/surveys/ironstone_correspondence.md```
-- **Coordinate Fraud Analysis**: ```1:156:02_analysis/coordinate_fraud/coordinate_analysis.md```
-- **Pin Analysis**: ```1:142:02_analysis/coordinate_fraud/pin_analysis_corrected.md```
+- **Coordinate Fraud Analysis**: ```02_analysis/coordinate_fraud/comprehensive_coordinate_fraud_analysis.md```
+- **Pin Analysis**: ```02_analysis/coordinate_fraud/comprehensive_coordinate_fraud_analysis.md``` - Section: Pin Analysis & Professional Deception
 - **Case Timeline**: ```1:193:02_analysis/timeline/case_timeline.md```
 - **Damage Calculations**: ```1:263:02_analysis/damages/construction_delays.md```
 - **1984 Easement Documentation**: ```1:77:01_source_documents/1984_historical/butts_county_records/plat_documentation.txt``` 

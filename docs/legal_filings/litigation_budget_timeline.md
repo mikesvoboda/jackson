@@ -99,20 +99,20 @@
 ### **SCENARIO 1: EARLY SETTLEMENT (Months 1-3)**
 - **Total Costs**: $40,000-$60,000
 - **Probability**: 70%
-- **Settlement Range**: $500,000-$800,000
-- **Net Recovery**: $440,000-$760,000
+- **Settlement Range**: $800,000-$1,200,000
+- **Net Recovery**: $540,000-$940,000
 
 ### **SCENARIO 2: DISCOVERY SETTLEMENT (Months 4-8)**
 - **Total Costs**: $90,000-$120,000
 - **Probability**: 20%
-- **Settlement Range**: $700,000-$1,000,000
-- **Net Recovery**: $580,000-$910,000
+- **Settlement Range**: $800,000-$1,200,000
+- **Net Recovery**: $680,000-$1,080,000
 
 ### **SCENARIO 3: TRIAL RESOLUTION (Months 9-18)**
 - **Total Costs**: $150,000-$200,000
 - **Probability**: 10%
-- **Trial Award Range**: $800,000-$1,500,000
-- **Net Recovery**: $600,000-$1,350,000
+- **Trial Award Range**: $1,000,000-$1,500,000
+- **Net Recovery**: $800,000-$1,300,000
 
 ---
 
@@ -122,7 +122,7 @@
 
 **Week 1-2**:
 - Retain attorney and sign engagement agreement
-- File complaints against all three defendants
+- File complaints against all four defendants
 - Coordinate service of process
 
 **Week 3-4**:
@@ -171,8 +171,8 @@
 **Priority Deposition Schedule**:
 1. **Heather Tumlin** (Ironstone) - Pin placement admissions
 2. **Jackson Title Examiner** - Search procedures and failures
-3. **Kenneth Jones, Jr.** - Knowledge of easements and disclosure
-4. **Georgia Power Representative** - Easement use and necessity
+3. **Georgia Power Representative** - Easement scope violations and unauthorized utilities
+4. **Kenneth Jones, Jr.** - Knowledge of easements and disclosure
 
 **Settlement Leverage Points**:
 - Professional admission evidence
@@ -279,12 +279,12 @@
 | **Trial Resolution** | $125K-$175K | $600K-$1.2M | 400-680% | 15% |
 
 ### **Expected Value Calculation**:
-- **Early Settlement**: ($650K × 70%) = $455K
-- **Discovery Settlement**: ($850K × 20%) = $170K  
-- **Trial Resolution**: ($1,150K × 10%) = $115K
-- **Total Expected Value**: **$740K**
-- **Average Investment**: **$110K**
-- **Net Expected Return**: **$630K**
+- **Early Settlement**: ($800K × 70%) = $560K
+- **Discovery Settlement**: ($1,000K × 20%) = $200K  
+- **Trial Resolution**: ($1,250K × 10%) = $125K
+- **Total Expected Value**: **$885K**
+- **Average Investment**: **$135K**
+- **Net Expected Return**: **$750K**
 
 ---
 
@@ -321,7 +321,7 @@
 - ✅ **Substantial damages** with expert quantification support
 - ✅ **Settlement leverage** through professional reputation and licensing threats
 
-**Expected Outcome**: **85-90% settlement probability** with **$400,000-$800,000 recovery** at **$75,000-$150,000 investment** for **400-600% return on investment**.
+**Expected Outcome**: **95-98% settlement probability** with **$800,000-$1,500,000 recovery** at **$90,000-$180,000 investment** for **700-1000% return on investment** (enhanced due to criminal fraud discovery).
 
 ---
 

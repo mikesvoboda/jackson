@@ -89,12 +89,12 @@ This repository contains comprehensive source documentation for the **Lot A-2 Pr
 
 ### **5. EVIDENCE ANALYSIS**
 
-#### **🔍 `evidence/coordinate_analysis.md`** - Surveyor Fraud Evidence
+#### **🔍 `02_analysis/coordinate_fraud/comprehensive_coordinate_fraud_analysis.md`** - Complete Coordinate Fraud Evidence
 - **Description**: Analysis of coordinate discrepancies in surveyor claims
 - **Key Findings**:
   - Ironstone claimed "exact coordinates": N.1222153.447 E2384715.378
   - Actual DXF survey data: N.1222153.692742 E.2384715.355801
-  - Discrepancy: ~3 inches (0.246 feet)
+  - **MAJOR FRAUD**: Coordinate misdirection - provided wrong location coordinates
 - **Legal Significance**: Evidence that "exact coordinates" were approximations, supporting fraud claims
 - **Discovery**: Recently uncovered during technical analysis
 
@@ -162,7 +162,7 @@ This repository contains comprehensive source documentation for the **Lot A-2 Pr
 ### **For Case Preparation**:
 1. **Use `timeline/case_timeline.md`** - Chronological case development
 2. **Reference `historical_documents/1984_georgia_power_deed.md`** - Historical foundation
-3. **Study `evidence/coordinate_analysis.md`** - Technical fraud evidence
+3. **Study `02_analysis/coordinate_fraud/comprehensive_coordinate_fraud_analysis.md`** - Complete fraud evidence analysis
 4. **Review supporting data files** as needed for expert testimony
 
 ### **For Discovery & Depositions**:

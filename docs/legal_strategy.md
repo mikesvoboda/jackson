@@ -22,8 +22,8 @@ This file is organized for your attorney to quickly understand the facts, eviden
 **Defendants**:
 1. Ironstone Surveying, Inc. - Professional malpractice and fraud
 2. Jackson Title Company, LLC - Title insurance negligence
-3. Kenneth Jones, Jr. (Seller) - Non-disclosure
-4. Potential: Georgia Power Company - Improper easement enforcement
+3. Georgia Power Company - Unauthorized utility trespass beyond easement scope
+4. Kenneth Jones, Jr. (Seller) - Non-disclosure
 
 **Statute of Limitations Status**:
 - Professional Malpractice: ~10 months remaining (expires May 27, 2026)
@@ -168,7 +168,7 @@ This file is organized for your attorney to quickly understand the facts, eviden
 - **Title insurance claim**: 3-6 months
 - **Surveyor settlement**: 6-12 months  
 - **Overall resolution**: 12-24 months
-- **Total recovery estimate**: $400,000-$800,000
+- **Total recovery estimate**: $600,000-$1,200,000
 
 ---
 

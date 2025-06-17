@@ -113,7 +113,7 @@ The missing pin analysis provides strong evidence for your legal case:
 - **Sources**: 
   - DXF Analysis: ```1:1000:01_source_documents/surveys/processed/dxf_geometry.json```
   - Survey Images: ```1:5:01_source_documents/surveys/raw_data/first_survey.jpg```
-  - Coordinate Fraud: ```1:156:02_analysis/coordinate_fraud/coordinate_analysis.md```
+  - Coordinate Fraud: ```02_analysis/coordinate_fraud/comprehensive_coordinate_fraud_analysis.md```
 
 ---
 

@@ -136,18 +136,23 @@
 
 ## 🎯 **DEFENDANT LIABILITY ALLOCATION**
 
-### **Jackson Title Company, LLC** (Primary - 60-70%)
+### **Jackson Title Company, LLC** (Primary - 40-45%)
 - **Coverage**: $10,000 title insurance policy
-- **Professional Negligence**: $200,000 - $400,000
-- **Total Exposure**: $210,000 - $410,000
+- **Professional Negligence**: $300,000 - $500,000
+- **Total Exposure**: $310,000 - $510,000
 - **Source**: ```430:430:01_source_documents/2021_closing/title_documents.txt```
 
-### **Ironstone Surveying, Inc.** (Secondary - 30-40%)
-- **Professional Malpractice**: $150,000 - $300,000
+### **Ironstone Surveying, Inc.** (Secondary - 25-30%)
+- **Professional Malpractice**: $200,000 - $400,000
 - **Fraud Penalties**: $50,000 - $150,000
-- **Total Exposure**: $200,000 - $450,000
+- **Total Exposure**: $250,000 - $550,000
 
-### **Kenneth Jones, Jr.** (Tertiary - 5-10%)
+### **Georgia Power Company** (Tertiary - 15-20%)
+- **Utility Trespass**: $100,000 - $250,000
+- **Easement Violations**: $50,000 - $150,000
+- **Total Exposure**: $150,000 - $400,000
+
+### **Kenneth Jones, Jr.** (Minimal - 5-10%)
 - **Non-disclosure**: $25,000 - $75,000
 - **Limited assets**: May affect collection
 
@@ -235,15 +240,26 @@
 - **Clear liability** with no viable defense
 - **Regulatory risk** from obvious failures
 - **Professional reputation** damage
-- **Expected settlement**: $250,000 - $500,000
+- **Expected settlement**: $350,000 - $500,000
 
 ### **Surveyor Settlement Factors**:
 - **License threat** from fraud findings
 - **Professional insurance limits**
 - **Career impact** from misconduct
-- **Expected settlement**: $150,000 - $300,000
+- **Expected settlement**: $200,000 - $350,000
 
-### **Combined Settlement Potential**: **$400,000 - $800,000**
+### **Georgia Power Settlement Factors**:
+- **Regulatory exposure** as public utility
+- **Unauthorized utility use** beyond easement scope
+- **Corporate reputation** and legal precedent concerns
+- **Expected settlement**: $150,000 - $250,000
+
+### **Seller Settlement Factors**:
+- **Limited liability** compared to professionals
+- **Asset limitations** may affect collection
+- **Expected settlement**: $25,000 - $75,000
+
+### **Combined Settlement Potential**: **$600,000 - $1,200,000**
 
 ---
 

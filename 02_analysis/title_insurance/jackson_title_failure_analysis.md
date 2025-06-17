@@ -202,7 +202,7 @@ Title insurance companies are required to:
 - **Ironstone Correspondence**: ```1:100:01_source_documents/surveys/ironstone_correspondence.md```
 - **Georgia Power Letter**: ```1:50:01_source_documents/legal_notices/georgia_power_letter_2022-05-11.md```
 - **Case Timeline**: ```1:50:02_analysis/timeline/case_timeline.md```
-- **Coordinate Analysis**: ```1:100:02_analysis/coordinate_fraud/coordinate_analysis.md```
+- **Coordinate Analysis**: ```02_analysis/coordinate_fraud/comprehensive_coordinate_fraud_analysis.md``` - Section: Professional Standards Analysis
 
 ---
 

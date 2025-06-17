@@ -130,7 +130,7 @@ The 1984 survey demonstrates professional competency that both Jackson Title and
 1. **Professional Standard**: 1984 survey shows industry-standard easement research
 2. **Admitted Failure**: Ironstone explicitly stated they "did not research recorded easements"
 3. **False Certification**: Marked pin as "IPF" (Iron Pin Found) when they placed it
-4. **Coordinate Fraud**: Their "exact coordinates" were ~3 inches off from actual survey data
+4. **Coordinate Misdirection Fraud**: Their claimed "exact coordinates" were for center of property (START location) not termination pin - evidence of deliberate professional deception
 
 ### 📁 **DOCUMENTARY EVIDENCE HIERARCHY**
 

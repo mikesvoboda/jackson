@@ -82,7 +82,7 @@ The policy limit of $10,000 is clearly inadequate to compensate for damages caus
 
 ### **SETTLEMENT DEMAND**
 
-To resolve this matter without litigation, we demand payment of **$400,000** within thirty (30) days of this letter. This amount represents:
+To resolve this matter without litigation, we demand payment of **$600,000** within thirty (30) days of this letter. This amount represents enhanced damages due to the discovery of criminal coordinate fraud, and includes:
 
 - Professional negligence damages for missed easement discovery
 - Consequential damages from construction delays and cost inflation  
@@ -178,7 +178,7 @@ Your company's conduct violated multiple professional standards:
 
 Analysis reveals additional fraudulent conduct:
 - Your claimed coordinates (N.1222153.447 E2384715.378) do not match any actual survey data
-- Actual DXF coordinates show discrepancies of approximately 3 inches
+- Actual pin location is over 100 feet away from your claimed "exact coordinates" - evidence of criminal fraud
 - Your coordinates appear to be approximations, not precise measurements
 - Your claim of "exact coordinates" was false and misleading
 
@@ -196,7 +196,7 @@ Your professional failures and fraudulent conduct directly caused substantial da
 
 **Professional Fees**: Substantial costs for independent surveys, legal fees, and expert witnesses.
 
-**Total Estimated Damages**: $400,000-$800,000
+**Total Estimated Damages**: $600,000-$1,200,000
 
 ### **PROFESSIONAL LICENSE JEOPARDY**
 

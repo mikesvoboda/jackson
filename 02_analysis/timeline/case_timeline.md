@@ -72,7 +72,7 @@
   - **🚨 SMOKING GUN**: "This pin was set according to the deed"
   - **🚨 FRAUD EVIDENCE**: "The pin was driven into the ground"
   - **📍 COORDINATES PROVIDED**: N.1222153.447 E2384715.378
-  - **❌ COORDINATE DISCREPANCY**: ~3 inches off from actual survey data
+  - **🚨 MAJOR COORDINATE FRAUD**: Coordinate misdirection - provided START coordinates as termination coordinates
   - **Source**: ```1:100:01_source_documents/surveys/ironstone_correspondence.md```
 
 ### **May 11, 2022**
