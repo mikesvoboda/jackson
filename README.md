@@ -437,8 +437,7 @@ This repository contains comprehensive source documentation for the **Lot A-2 Pr
 #### **5. ENHANCED FRAUD EVIDENCE ANALYSIS**
 
 ##### **🚨 Pin Placement Fraud Analysis**
-- **Primary File**: [Enhanced Pin Placement Fraud Analysis](02_analysis/coordinate_fraud/enhanced_pin_placement_fraud_analysis.md)
-- **Supporting File**: [Comprehensive Coordinate Fraud Analysis](02_analysis/coordinate_fraud/comprehensive_coordinate_fraud_analysis.md)
+- **Primary File**: [Comprehensive Pin Placement & Coordinate Fraud Analysis](02_analysis/coordinate_fraud/comprehensive_coordinate_fraud_analysis.md)
 - **Key Findings**:
   - Ironstone placed pin improperly without adequate surveying
   - Fraudulently marked placed pin as "IPF" (Iron Pin Found) on revised survey
@@ -489,7 +488,7 @@ This repository contains comprehensive source documentation for the **Lot A-2 Pr
 1. **Review this README.md** - Complete case overview with integrated timeline
 2. **Read [Ironstone Email Evidence](01_source_documents/surveys/ironstone_correspondence.md)** - Smoking gun admissions
 3. **Examine [Georgia Power Legal Notice](01_source_documents/legal_notices/georgia_power_letter_2022-05-11.md)** - Easement validity proof
-4. **Study [Enhanced Fraud Analysis](02_analysis/coordinate_fraud/enhanced_pin_placement_fraud_analysis.md)** - Career-ending fraud evidence
+4. **Study [Comprehensive Fraud Analysis](02_analysis/coordinate_fraud/comprehensive_coordinate_fraud_analysis.md)** - Career-ending fraud evidence
 
 #### **For Immediate Legal Action**:
 1. **Use [Complete Legal Filing Package](docs/legal_filings/)** - Ready-to-file complaints and settlement demands
