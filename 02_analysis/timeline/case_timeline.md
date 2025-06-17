@@ -98,6 +98,52 @@
 
 ---
 
+## 📅 **NEGOTIATION & COORDINATION PERIOD (2022)**
+
+### **July 17, 2022**
+- **🤝 EASEMENT REVISION PROPOSAL**
+  - Brooke Svoboda proposes minimal easement curve changes
+  - Good faith effort to resolve building constraints cooperatively
+  - Informal neighbor discussions showing agreement
+  - **Source**: ```1:200:01_source_documents/legal_notices/georgia_power_email_thread_july_august_2022.md```
+
+### **July 18, 2022**
+- **⚖️ GEORGIA POWER INITIAL RESPONSE**
+  - Wes Lewis (Hydro Compliance Coordinator) seeks manager approval
+  - Questions about building placement in "V" between easements
+  - **Source**: ```1:200:01_source_documents/legal_notices/georgia_power_email_thread_july_august_2022.md```
+
+### **July 26, 2022**
+- **🚨 GEORGIA POWER HARDLINE STANCE**
+  - **CRITICAL ADMISSION**: "we have paid a surveyor to come out and do this field work"
+  - **COORDINATION EVIDENCE**: Direct admission of paying Jordan surveyor
+  - **BAD FAITH**: "At this point, there's nothing for us to discuss"
+  - **LEGAL STRATEGY**: "exhausted more time than I'd like or have with our legal counsel"
+  - **Source**: ```1:200:01_source_documents/legal_notices/georgia_power_email_thread_july_august_2022.md```
+
+### **August 8, 2022**
+- **❌ GEORGIA POWER FINAL REJECTION**
+  - **"NON-NEGOTIABLE"** stance despite minimal proposed changes
+  - **SURVEY COMPARISON**: "Ironstone survey and Jordans' – they are almost identical"
+  - **RIGHTS ASSERTION**: "We retained these rights in 1984"
+  - **Source**: ```1:200:01_source_documents/legal_notices/georgia_power_email_thread_july_august_2022.md```
+
+---
+
+## 📅 **GEORGIA POWER STRATEGIC DOCUMENTATION (2023)**
+
+### **July 18, 2023**
+- **📐 JORDAN ENGINEERING SURVEY COMPLETED**
+  - **Commissioned By**: Georgia Power Company
+  - **Purpose**: Professional easement exhibit for rights enforcement
+  - **Timing**: 18+ months after Ironstone failures
+  - **Professional Standards**: Complete coordinates, proper legend, metes and bounds
+  - **Strategic Impact**: Georgia Power obtains definitive easement documentation
+  - **Cost**: Georgia Power bears survey expense that Ironstone should have handled
+  - **Source**: ```1:200:01_source_documents/surveys/jordan_engineering_survey_analysis.md```
+
+---
+
 ## 📅 **CONSTRUCTION DELAY PERIOD (2022-2025)**
 
 ### **May 2022 - Present**
@@ -156,6 +202,17 @@
 - **Impact**: Left property owners with unresolved boundary issues
 - **Legal Significance**: Breach of professional duty
 
+### **July-August 2022 - Bad Faith Negotiations**
+- **❌ Georgia Power "non-negotiable" stance despite good faith proposals**
+- **🚨 Coordination admission**: Direct payment to Jordan surveyor
+- **Impact**: Eliminated cooperative resolution despite minimal requested changes
+- **Legal Significance**: Evidence of bad faith conduct and surveyor coordination
+
+### **July 18, 2023 - Georgia Power Strategic Documentation**
+- **📐 Jordan Engineering survey provides professional easement exhibit**
+- **Impact**: Georgia Power obtains definitive documentation 18+ months after initial failures
+- **Legal Significance**: Proves professional standards and demonstrates what Ironstone should have provided
+
 ---
 
 ## 📈 **DAMAGE ACCUMULATION TIMELINE**
@@ -171,10 +228,12 @@
 ### **2023 - 2024**
 - **Construction delay**: Year 2 of halted construction
 - **Interest rate impact**: Significant mortgage rate increases
+- **July 2023**: Georgia Power obtains professional Jordan survey - demonstrates what should have been available 18+ months earlier
 
 ### **2024 - 2025**
 - **Construction delay**: Year 3+ of halted construction
 - **Compounding damages**: Continued inflation and lost use
+- **Professional standard evidence**: Jordan survey proves competent work was possible all along
 
 ### **2025 - Present**
 - **Total accumulated damages**: $500,000-$1,200,000
