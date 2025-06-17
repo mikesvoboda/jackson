@@ -51,6 +51,18 @@ This repository contains comprehensive source documentation for the **Lot A-2 Pr
 - **Legal Significance**: Proves easement validity and 37-year public record existence
 - **Impact**: Demonstrates title company and surveyor negligence
 
+#### **📧 `legal_notices/georgia_power_email_thread_july_august_2022.md`** - Post-Conflict Negotiation Evidence
+- **Description**: Complete email thread between Brooke Svoboda and Georgia Power's Wes Lewis
+- **Date Range**: July 17, 2022 - August 8, 2022
+- **Key Evidence**:
+  - **Bad Faith Conduct**: "Non-negotiable" stance despite minimal easement change proposals
+  - **Coordination Admission**: "we have paid a surveyor to come out and do this field work"
+  - **Legal Counsel Involvement**: "exhausted more time than I'd like or have with our legal counsel"
+  - **Survey Comparison**: "Ironstone survey and Jordans' – they are almost identical"
+  - **Third-Party Issues**: "3 lake lessees who have been utilizing this easement for many, many years"
+- **Legal Significance**: Evidence of bad faith negotiation tactics and coordination between Georgia Power and surveyors
+- **Strategic Value**: Supports punitive damages claims and attorney's fees
+
 ---
 
 ### **4. HISTORICAL DOCUMENTS**
