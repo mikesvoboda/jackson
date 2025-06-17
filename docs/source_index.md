@@ -51,6 +51,18 @@ This repository contains comprehensive source documentation for the **Lot A-2 Pr
 - **Legal Significance**: Proves easement validity and 37-year public record existence
 - **Impact**: Demonstrates title company and surveyor negligence
 
+#### **📧 `legal_notices/georgia_power_email_thread_may_2022.md`** - Immediate Post-Legal Letter Communications
+- **Description**: Email thread showing Georgia Power's immediate strategic response to legal assertion
+- **Date Range**: May 11, 2022 - May 28, 2022
+- **Key Evidence**:
+  - **Construction Interference**: "I would highly recommend waiting to proceed with any actual site construction"
+  - **Re-survey Threat**: "GPC may very well have the easement re-surveyed" (early Jordan survey planning)
+  - **Internal Strategy Planning**: "conference call on 6/7" - coordinated institutional response
+  - **Legal Department Control**: "I can't add anything... other than what I'd sent to you from our attorney"
+  - **Exceptional Good Faith**: Property owners achieve consensus with all lessees, propose minimal impact plans
+- **Legal Significance**: Evidence of construction interference and strategic planning vs. good faith efforts
+- **Strategic Value**: Supports bad faith conduct claims and demonstrates exceptional property owner cooperation
+
 #### **📧 `legal_notices/georgia_power_email_thread_july_august_2022.md`** - Post-Conflict Negotiation Evidence
 - **Description**: Complete email thread between Brooke Svoboda and Georgia Power's Wes Lewis
 - **Date Range**: July 17, 2022 - August 8, 2022
