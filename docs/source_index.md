@@ -102,13 +102,22 @@ This repository contains comprehensive source documentation for the **Lot A-2 Pr
 ### **5. EVIDENCE ANALYSIS**
 
 #### **🔍 `02_analysis/coordinate_fraud/comprehensive_coordinate_fraud_analysis.md`** - Complete Coordinate Fraud Evidence
-- **Description**: Analysis of coordinate discrepancies in surveyor claims
+- **Description**: Analysis of coordinate discrepancies in surveyor claims (UPDATED with enhanced fraud theory)
 - **Key Findings**:
   - Ironstone claimed "exact coordinates": N.1222153.447 E2384715.378
-  - Actual DXF survey data: N.1222153.692742 E.2384715.355801
-  - **MAJOR FRAUD**: Coordinate misdirection - provided wrong location coordinates
-- **Legal Significance**: Evidence that "exact coordinates" were approximations, supporting fraud claims
-- **Discovery**: Recently uncovered during technical analysis
+  - **🚨 ENHANCED FRAUD**: Pin placement fraud - placed pin then marked as "found"
+  - **Jordan Survey Impact**: Professional survey based on Ironstone's improperly placed pin
+- **Legal Significance**: Professional fraud in survey documentation (career-ending consequences)
+- **Discovery**: Enhanced understanding reveals more serious fraud than coordinate misdirection
+
+#### **🚨 `02_analysis/coordinate_fraud/enhanced_pin_placement_fraud_analysis.md`** - Enhanced Fraud Theory Analysis
+- **Description**: Detailed analysis of pin placement fraud theory (more serious than coordinate misdirection)
+- **Key Findings**:
+  - Ironstone placed pin improperly without adequate surveying
+  - Fraudulently marked placed pin as "IPF" (Iron Pin Found) on revised survey
+  - Jordan Engineering found same improperly placed pin in 2023
+- **Legal Significance**: Professional fraud in survey documentation, potential criminal referral, license revocation
+- **Strategic Impact**: Enhanced settlement leverage and punitive damages exposure
 
 ---
 
