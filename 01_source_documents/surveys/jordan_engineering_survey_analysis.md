@@ -11,6 +11,7 @@
 **Scale**: 1" = 60'  
 **Address**: 144 N. Warren St., Monticello, GA 31064  
 **Contact**: (706) 468-8992, www.jordan-eng.com  
+**Survey Image**: `jordan_engineering_easement_exhibit_2023-07-18.png` - Professional easement exhibit showing Georgia Power's claimed rights
 
 ---
 
@@ -41,6 +42,27 @@
 - **Bearings & Distances**: Professional metes and bounds descriptions
 - **Scale & North Arrow**: Proper surveying standards
 - **Easement Areas**: Clearly marked with hatching/shading
+
+## VISUAL EVIDENCE FROM SURVEY IMAGE
+
+### **Key Visual Elements**:
+- **Easement Boundaries**: Clear demarcation of Wright Drive and Guinn Drive easements crossing the Svoboda property
+- **Property Boundaries**: Precise boundary lines with bearings and distances
+- **Multiple Leased Areas**: Georgia Power leased lots clearly marked with lessee names and details
+- **Professional Cartography**: Proper surveying symbols, legend, and coordinate references
+- **Scale and Orientation**: Professional 1"=60' scale with north arrow
+
+### **Easement Impact Visualization**:
+- **Building Constraints**: Easements create "V" pattern limiting buildable area on Svoboda property
+- **Access Routes**: Multiple easement roads providing access to various Georgia Power lessees
+- **Boundary Precision**: Professional coordinate system and metes/bounds descriptions
+- **Legal Documentation**: Survey suitable for legal proceedings and rights enforcement
+
+### **Professional Standards Demonstrated**:
+- **Complete Legend**: All surveying symbols properly defined
+- **Coordinate References**: Georgia State Plane coordinate system
+- **Professional Certification**: Licensed engineering firm with proper credentials
+- **Legal Sufficiency**: Survey meets professional standards for easement documentation
 
 ---
 

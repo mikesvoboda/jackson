@@ -146,6 +146,7 @@ This repository contains comprehensive source documentation for the **Lot A-2 Pr
 - **`data/processed/dxf_geometry.json`** - Processed survey geometry data
 - **`data/raw/first survey.jpg`** - First survey image
 - **`data/raw/second_survey.jpg`** - Second survey image
+- **`01_source_documents/surveys/jordan_engineering_easement_exhibit_2023-07-18.png`** - Georgia Power commissioned professional survey showing definitive easement boundaries
 
 #### **📄 Closing Documents**
 - **`historical_documents/2021_08_19_11_01_39 (3).txt`** - HUD-1 settlement statement and closing documents
