@@ -360,7 +360,7 @@ Dear Counsel:
 
 ### **INTRODUCTION**
 
-This firm represents Michael and Brooke Svoboda regarding Georgia Power Company's unauthorized expansion of easement use and utility trespass affecting the above-referenced property. Your company's own legal correspondence reveals clear easement scope violations and provides the foundation for substantial liability and damages.
+This firm represents Michael and Brooke Svoboda regarding Georgia Power Company's unauthorized expansion of easement use, utility trespass, and coordination with surveyors in fraudulent documentation affecting the above-referenced property. Your company's own legal correspondence reveals clear easement scope violations and coordination in surveyor fraud, providing the foundation for substantial liability and damages.
 
 ### **GEORGIA POWER'S ADMISSION OF UNAUTHORIZED UTILITY USE**
 
@@ -379,6 +379,16 @@ The easement Georgia Power reserved in its June 12, 1984 deed was explicitly lim
 **Source**: ```1:77:01_source_documents/1984_historical/butts_county_records/plat_documentation.txt```
 
 **Translation**: Vehicle access and transportation only - NO utilities, water lines, or infrastructure of any kind.
+
+### **COORDINATION WITH SURVEYOR IN FRAUDULENT DOCUMENTATION**
+
+**Suspicious Surveyor Coordination**: Georgia Power had the strongest motivation to ensure the Guinn Drive easement termination was established, as you claimed it was "the only means by which Georgia Power's fee-owned parcels currently have access to a public road."
+
+**Unexplained Surveyor Return**: Professional surveyors do not typically return to perform additional unpaid field work after completing a survey. Ironstone Surveying's return to place a termination pin after their initial survey showed no easement termination suggests coordination with Georgia Power.
+
+**Timing Benefits Georgia Power**: The suspicious timing of Ironstone's second site visit - followed by the sudden placement of a pin marked as "IPF" (Iron Pin Found) - created an easement path favorable to Georgia Power's access needs.
+
+**Joint Liability for Surveyor Fraud**: Georgia Power's coordination with Ironstone in creating fraudulent survey documentation makes Georgia Power jointly liable for all damages caused by the surveyor's professional malpractice, fraud, and abandonment, including construction delays, cost inflation, and professional fees totaling $500,000-$700,000.
 
 ### **CLEAR EASEMENT SCOPE VIOLATION**
 
@@ -423,7 +433,9 @@ Georgia Power's use of the easement for water line infrastructure constitutes a 
 
 **Lost Use and Possession**: $10,000-$25,000 for ongoing interference with exclusive property rights
 
-**Total Estimated Damages**: $125,000-$300,000
+**Joint Liability for Surveyor Fraud**: $500,000-$700,000 for Georgia Power's coordination in fraudulent survey documentation causing construction delays, cost inflation, lost use, and professional fees
+
+**Total Estimated Damages**: $625,000-$1,000,000
 
 ### **REGULATORY AND BUSINESS IMPLICATIONS**
 
@@ -435,23 +447,28 @@ Georgia Power's use of the easement for water line infrastructure constitutes a 
 
 ### **SETTLEMENT DEMAND**
 
-To resolve this matter without litigation and regulatory complaints, we demand payment of **$200,000** within thirty (30) days of this letter.
+To resolve this matter without litigation and regulatory complaints, we demand payment of **$500,000** within thirty (30) days of this letter.
 
 This amount represents:
 - Fair market value of unauthorized utility easement rights taken
 - Compensation for property value diminution and development interference
 - Restitution for benefits received from unauthorized property use
+- Joint liability settlement for coordination in surveyor fraud
 - A substantial discount from total potential damages to avoid litigation costs
 
 ### **CONSEQUENCES OF REFUSING THIS DEMAND**
 
-**Civil Litigation**: We will file suit for easement scope violation, trespass, conversion, unjust enrichment, and negligent misrepresentation, seeking compensatory and punitive damages.
+**Civil Litigation**: We will file suit for easement scope violation, conspiracy and coordination in surveyor fraud, trespass, conversion, unjust enrichment, and negligent misrepresentation, seeking compensatory and punitive damages.
 
-**Regulatory Complaints**: We will file complaints with the Georgia Public Service Commission regarding unauthorized utility placement and easement scope violations.
+**Joint Liability Claims**: We will pursue joint and several liability claims with Ironstone Surveying for all damages caused by coordinated fraudulent survey documentation.
+
+**Conspiracy Investigation**: We will seek discovery regarding all communications and coordination between Georgia Power and Ironstone Surveying, potentially revealing broader fraudulent schemes.
+
+**Regulatory Complaints**: We will file complaints with the Georgia Public Service Commission regarding unauthorized utility placement, easement scope violations, and coordination in fraudulent documentation.
 
 **Injunctive Relief**: We will seek court orders requiring removal of all unauthorized utility infrastructure from our clients' property.
 
-**Public Disclosure**: Litigation will create public record of Georgia Power's unauthorized utility practices and easement violations.
+**Public Disclosure**: Litigation will create public record of Georgia Power's unauthorized utility practices, easement violations, and coordination in surveyor fraud.
 
 ### **ADDITIONAL THIRD-PARTY LIABILITY**
 
@@ -478,9 +495,9 @@ Attorney for Michael and Brooke Svoboda
 ### **Total Settlement Demands**:
 - **Jackson Title**: $400,000 (strongest liability)
 - **Ironstone Surveying**: $425,000 (coordinate misdirection fraud with license jeopardy)  
-- **Georgia Power**: $200,000 (utility trespass and easement violation)
+- **Georgia Power**: $500,000 (utility trespass, easement violation, and joint liability for surveyor fraud coordination)
 - **Kenneth Jones**: $50,000 (limited liability and assets)
-- **TOTAL DEMANDED**: **$1,075,000**
+- **TOTAL DEMANDED**: **$1,375,000**
 
 ### **Strategic Settlement Sequencing**:
 1. **Georgia Power First** - Regulatory exposure and public utility company pressure

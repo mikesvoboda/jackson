@@ -103,9 +103,21 @@ Plaintiffs, MICHAEL SVOBODA and BROOKE SVOBODA, husband and wife, by and through
 
 **24.** Georgia Power's facilitation of third-party utility trespass demonstrates a pattern of exceeding easement scope and disregarding property rights.
 
-### **F. Damages and Property Rights Interference**
+### **F. Suspicious Coordination with Surveyor to Establish Easement Rights**
 
-**25.** As a direct result of Georgia Power's unauthorized utility use, Plaintiffs have suffered and continue to suffer damages including:
+**25.** Upon information and belief, Georgia Power coordinated with or pressured Ironstone Surveying, Inc. to return to the Property to place a termination pin establishing the Guinn Drive easement path in a manner favorable to Georgia Power's interests.
+
+**26.** Professional surveyors do not typically return to perform additional unpaid field work after completing and delivering a survey unless compelled by external circumstances or coordination.
+
+**27.** The suspicious timing of Ironstone's second site visit - after the initial survey showed no easement termination - followed by the sudden placement of a pin marked as "IPF" (Iron Pin Found) suggests coordination designed to establish an easement path favorable to Georgia Power's access needs.
+
+**28.** Georgia Power had the strongest motivation to ensure the easement termination was established, as they claimed it was "the only means by which Georgia Power's fee-owned parcels currently have access to a public road."
+
+**29.** Upon information and belief, Georgia Power's coordination with Ironstone in creating fraudulent survey documentation makes Georgia Power jointly liable for the surveyor's professional malpractice and fraud.
+
+### **G. Damages and Property Rights Interference**
+
+**30.** As a direct result of Georgia Power's unauthorized utility use and coordination in fraudulent survey documentation, Plaintiffs have suffered and continue to suffer damages including:
 
 **a.** **Lost Property Value** - Unauthorized utilities reduce property marketability and development potential;
 
@@ -117,112 +129,137 @@ Plaintiffs, MICHAEL SVOBODA and BROOKE SVOBODA, husband and wife, by and through
 
 **e.** **Removal and Relocation Costs** - Costs to remove unauthorized utilities or relocate development to avoid conflicts.
 
+**f.** **Joint Liability for Surveyor Fraud** - Damages resulting from Georgia Power's coordination in fraudulent survey documentation including construction delays, cost inflation, and professional fees.
+
 ---
 
 ## **III. COUNT I - EASEMENT SCOPE VIOLATION**
 
-**26.** Plaintiffs incorporate by reference paragraphs 1 through 25 as if fully set forth herein.
+**31.** Plaintiffs incorporate by reference paragraphs 1 through 30 as if fully set forth herein.
 
-**27.** The 1984 easement granted Georgia Power specific, limited rights for "ingress and egress" purposes only.
+**32.** The 1984 easement granted Georgia Power specific, limited rights for "ingress and egress" purposes only.
 
-**28.** Georgia Power has exceeded the scope of the granted easement by using the easement area for water line infrastructure and utilities.
+**33.** Georgia Power has exceeded the scope of the granted easement by using the easement area for water line infrastructure and utilities and by coordinating fraudulent survey documentation.
 
-**29.** This unauthorized expansion of easement use constitutes a material breach of the easement terms and a violation of Plaintiffs' property rights.
+**34.** This unauthorized expansion of easement use and coordination in surveyor fraud constitutes a material breach of the easement terms and a violation of Plaintiffs' property rights.
 
-**30.** Georgia Power's easement scope violation has damaged Plaintiffs in an amount to be proven at trial, but believed to exceed $50,000.
+**35.** Georgia Power's easement scope violation and coordination in fraudulent documentation has damaged Plaintiffs in an amount to be proven at trial, but believed to exceed $100,000.
 
 **WHEREFORE**, Plaintiffs demand judgment against Defendant for compensatory damages, injunctive relief requiring removal of unauthorized utilities, and such other relief as the Court deems just and proper.
 
 ---
 
-## **IV. COUNT II - TRESPASS**
+## **IV. COUNT II - CONSPIRACY AND COORDINATION IN SURVEYOR FRAUD**
 
-**31.** Plaintiffs incorporate by reference paragraphs 1 through 30 as if fully set forth herein.
+**36.** Plaintiffs incorporate by reference paragraphs 1 through 35 as if fully set forth herein.
 
-**32.** Plaintiffs are the fee simple owners of the Property and have the right to exclusive possession and use, subject only to the limited "ingress and egress" easement.
+**37.** Upon information and belief, Georgia Power conspired with, coordinated with, or pressured Ironstone Surveying, Inc. to create fraudulent survey documentation establishing an easement path favorable to Georgia Power's interests.
 
-**33.** Georgia Power's installation, maintenance, and operation of water line infrastructure on Plaintiffs' Property constitutes an unauthorized entry and occupation of Plaintiffs' land.
+**38.** Georgia Power had the strongest motivation to ensure the easement termination was established and the clearest benefit from Ironstone's fraudulent conduct.
 
-**34.** Georgia Power's utility infrastructure physically occupies Plaintiffs' Property beyond the scope of any granted easement rights.
+**39.** The suspicious circumstances surrounding Ironstone's unexplained return to the Property and subsequent placement of a fraudulent "Iron Pin Found" demonstrate coordination between Georgia Power and Ironstone.
 
-**35.** This unauthorized occupation constitutes a continuing trespass that interferes with Plaintiffs' exclusive property rights.
+**40.** As a result of this conspiracy and coordination, Georgia Power is jointly and severally liable for all damages caused by Ironstone's professional malpractice, fraud, and abandonment.
 
-**36.** Georgia Power's trespass has damaged Plaintiffs in an amount to be proven at trial, but believed to exceed $50,000.
+**41.** Georgia Power's coordination in the surveyor fraud has damaged Plaintiffs in an amount to be proven at trial, including all damages caused by construction delays, cost inflation, lost use, and professional fees, believed to exceed $500,000.
+
+**WHEREFORE**, Plaintiffs demand judgment against Defendant for compensatory damages as a joint tortfeasor with Ironstone Surveying, Inc., punitive damages for coordination in fraudulent conduct, and such other relief as the Court deems just and proper.
+
+---
+
+## **V. COUNT III - TRESPASS**
+
+**42.** Plaintiffs incorporate by reference paragraphs 1 through 41 as if fully set forth herein.
+
+**43.** Plaintiffs are the fee simple owners of the Property and have the right to exclusive possession and use, subject only to the limited "ingress and egress" easement.
+
+**44.** Georgia Power's installation, maintenance, and operation of water line infrastructure on Plaintiffs' Property constitutes an unauthorized entry and occupation of Plaintiffs' land.
+
+**45.** Georgia Power's utility infrastructure physically occupies Plaintiffs' Property beyond the scope of any granted easement rights.
+
+**46.** This unauthorized occupation constitutes a continuing trespass that interferes with Plaintiffs' exclusive property rights.
+
+**47.** Georgia Power's trespass has damaged Plaintiffs in an amount to be proven at trial, but believed to exceed $75,000.
 
 **WHEREFORE**, Plaintiffs demand judgment against Defendant for compensatory damages, injunctive relief requiring removal of trespassing utilities, and such other relief as the Court deems just and proper.
 
 ---
 
-## **V. COUNT III - CONVERSION**
+## **VI. COUNT IV - CONVERSION**
 
-**37.** Plaintiffs incorporate by reference paragraphs 1 through 36 as if fully set forth herein.
+**48.** Plaintiffs incorporate by reference paragraphs 1 through 47 as if fully set forth herein.
 
-**38.** Plaintiffs own valuable property rights in the exclusive use and possession of their Property, subject only to the limited "ingress and egress" easement.
+**49.** Plaintiffs own valuable property rights in the exclusive use and possession of their Property, subject only to the limited "ingress and egress" easement.
 
-**39.** Georgia Power has wrongfully taken and converted Plaintiffs' property rights by using their land for unauthorized utility purposes beyond the scope of any granted easement.
+**50.** Georgia Power has wrongfully taken and converted Plaintiffs' property rights by using their land for unauthorized utility purposes beyond the scope of any granted easement.
 
-**40.** Georgia Power has claimed ownership of utility infrastructure placed on Plaintiffs' Property without authorization, demonstrating intent to permanently deprive Plaintiffs of their property rights.
+**51.** Georgia Power has claimed ownership of utility infrastructure placed on Plaintiffs' Property without authorization, demonstrating intent to permanently deprive Plaintiffs of their property rights.
 
-**41.** Georgia Power's conversion of Plaintiffs' property rights has damaged Plaintiffs in an amount equal to the fair market value of the utility easement rights taken, believed to exceed $50,000.
+**52.** Georgia Power's conversion of Plaintiffs' property rights has damaged Plaintiffs in an amount equal to the fair market value of the utility easement rights taken, believed to exceed $100,000.
 
 **WHEREFORE**, Plaintiffs demand judgment against Defendant for compensatory damages equal to the fair market value of the converted property rights, and such other relief as the Court deems just and proper.
 
 ---
 
-## **VI. COUNT IV - UNJUST ENRICHMENT**
+## **VII. COUNT V - UNJUST ENRICHMENT**
 
-**42.** Plaintiffs incorporate by reference paragraphs 1 through 41 as if fully set forth herein.
+**53.** Plaintiffs incorporate by reference paragraphs 1 through 52 as if fully set forth herein.
 
-**43.** Georgia Power has received substantial benefits from the unauthorized use of Plaintiffs' Property for utility infrastructure.
+**54.** Georgia Power has received substantial benefits from the unauthorized use of Plaintiffs' Property for utility infrastructure and coordination in fraudulent survey documentation.
 
-**44.** These benefits include the value of utility easement rights, infrastructure placement, and ongoing utility services to Georgia Power's fee-owned properties.
+**55.** These benefits include the value of utility easement rights, infrastructure placement, established easement access, and ongoing utility services to Georgia Power's fee-owned properties.
 
-**45.** Georgia Power has received these benefits at Plaintiffs' expense and without providing fair compensation to Plaintiffs.
+**56.** Georgia Power has received these benefits at Plaintiffs' expense and without providing fair compensation to Plaintiffs.
 
-**46.** It would be inequitable and unjust to permit Georgia Power to retain these benefits without compensating Plaintiffs for the use of their property.
+**57.** It would be inequitable and unjust to permit Georgia Power to retain these benefits without compensating Plaintiffs for the use of their property.
 
-**47.** Georgia Power should be required to pay Plaintiffs the reasonable value of the benefits received from the unauthorized use of Plaintiffs' Property.
+**58.** Georgia Power should be required to pay Plaintiffs the reasonable value of the benefits received from the unauthorized use of Plaintiffs' Property and coordination in fraudulent conduct.
 
-**WHEREFORE**, Plaintiffs demand judgment against Defendant for restitution and disgorgement of benefits unjustly retained, in an amount to be proven at trial but believed to exceed $50,000.
+**WHEREFORE**, Plaintiffs demand judgment against Defendant for restitution and disgorgement of benefits unjustly retained, in an amount to be proven at trial but believed to exceed $75,000.
 
 ---
 
-## **VII. COUNT V - NEGLIGENT MISREPRESENTATION**
+## **VIII. COUNT VI - NEGLIGENT MISREPRESENTATION**
 
-**48.** Plaintiffs incorporate by reference paragraphs 1 through 47 as if fully set forth herein.
+**59.** Plaintiffs incorporate by reference paragraphs 1 through 58 as if fully set forth herein.
 
-**49.** Georgia Power, through its legal counsel, represented to Plaintiffs in the May 11, 2022 letter that its rights were limited to the "non-exclusive perpetual easement for ingress and egress" reserved in the 1984 deed.
+**60.** Georgia Power, through its legal counsel, represented to Plaintiffs in the May 11, 2022 letter that its rights were limited to the "non-exclusive perpetual easement for ingress and egress" reserved in the 1984 deed.
 
-**50.** Georgia Power failed to disclose its unauthorized utility use and claimed ownership of utility infrastructure beyond the scope of the granted easement.
+**61.** Georgia Power failed to disclose its unauthorized utility use, claimed ownership of utility infrastructure beyond the scope of the granted easement, and potential coordination with surveyors.
 
-**51.** These representations and omissions were material to Plaintiffs' understanding of their property rights and the scope of Georgia Power's authorized activities.
+**62.** These representations and omissions were material to Plaintiffs' understanding of their property rights and the scope of Georgia Power's authorized activities.
 
-**52.** Plaintiffs reasonably relied on Georgia Power's representations about the scope of its easement rights in making decisions about property development and use.
+**63.** Plaintiffs reasonably relied on Georgia Power's representations about the scope of its easement rights in making decisions about property development and use.
 
-**53.** Georgia Power's misrepresentations and omissions have damaged Plaintiffs by preventing them from taking appropriate action to address the unauthorized utility use.
+**64.** Georgia Power's misrepresentations and omissions have damaged Plaintiffs by preventing them from taking appropriate action to address the unauthorized utility use and fraudulent survey coordination.
 
 **WHEREFORE**, Plaintiffs demand judgment against Defendant for compensatory damages resulting from the negligent misrepresentation, and such other relief as the Court deems just and proper.
 
 ---
 
-## **VIII. PRAYER FOR RELIEF**
+## **IX. PRAYER FOR RELIEF**
 
 **WHEREFORE**, Plaintiffs demand judgment against Defendant GEORGIA POWER COMPANY as follows:
 
-**A.** **Compensatory Damages** in an amount to be proven at trial, but believed to exceed $100,000, for easement scope violation, trespass, conversion, unjust enrichment, and negligent misrepresentation;
+**A.** **Compensatory Damages** in an amount to be proven at trial, but believed to exceed $700,000, for easement scope violation, conspiracy and coordination in surveyor fraud, trespass, conversion, unjust enrichment, and negligent misrepresentation;
 
-**B.** **Injunctive Relief** requiring Defendant to:
+**B.** **Joint and Several Liability** with Ironstone Surveying, Inc. for all damages caused by coordinated fraudulent survey documentation;
+
+**C.** **Punitive Damages** for coordination in fraudulent conduct and deliberate disregard of property rights;
+
+**D.** **Injunctive Relief** requiring Defendant to:
 1. Remove all unauthorized utility infrastructure from Plaintiffs' Property;
 2. Cease and desist from any use of Plaintiffs' Property beyond the scope of the "ingress and egress" easement;
 3. Prevent third parties from using Plaintiffs' Property for unauthorized utilities;
+4. Cease coordination with surveyors in fraudulent documentation;
 
-**C.** **Restitution and Disgorgement** of all benefits received from unauthorized use of Plaintiffs' Property;
+**E.** **Restitution and Disgorgement** of all benefits received from unauthorized use of Plaintiffs' Property and fraudulent coordination;
 
-**D.** **Pre-judgment and Post-judgment Interest** at the maximum rate allowed by law;
+**F.** **Pre-judgment and Post-judgment Interest** at the maximum rate allowed by law;
 
-**E.** **Attorney's Fees and Costs** pursuant to applicable law;
+**G.** **Attorney's Fees and Costs** pursuant to applicable law;
 
-**F.** **Such other relief** as this Court deems just and proper.
+**H.** **Such other relief** as this Court deems just and proper.
 
 ---
 

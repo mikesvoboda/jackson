@@ -27,7 +27,7 @@
 ### **Ready-to-File Complaints**
 - **[Jackson Title Complaint](docs/legal_filings/complaint_jackson_title.md)** - Professional negligence, breach of contract, negligent misrepresentation ($400,000 demand)
 - **[Ironstone Surveying Complaint](docs/legal_filings/complaint_ironstone_surveying.md)** - Professional malpractice, coordinate misdirection fraud, breach of contract ($750,000 demand)
-- **[Georgia Power Complaint](docs/legal_filings/complaint_georgia_power.md)** - Easement scope violation, trespass, conversion, unjust enrichment ($200,000 demand)
+- **[Georgia Power Complaint](docs/legal_filings/complaint_georgia_power.md)** - Easement scope violation, conspiracy in surveyor fraud, trespass, conversion, unjust enrichment ($700,000 demand)
 - **[Kenneth Jones Complaint](docs/legal_filings/complaint_seller_jones.md)** - Breach of warranty, negligent misrepresentation, fraud by concealment ($50,000 demand)
 
 ### **Litigation Support Documentation**
@@ -166,9 +166,9 @@
 ### **Settlement Demands by Defendant**:
 - **Jackson Title Company**: $400,000 (strongest liability - title insurance failure)
 - **Ironstone Surveying**: $425,000 (coordinate misdirection fraud + professional license jeopardy)
-- **Georgia Power Company**: $200,000 (utility trespass + regulatory exposure)
+- **Georgia Power Company**: $500,000 (utility trespass + joint liability for surveyor fraud coordination)
 - **Kenneth Jones, Jr.**: $50,000 (limited assets, warranty breach)
-- **TOTAL DEMANDED**: **$1,075,000**
+- **TOTAL DEMANDED**: **$1,375,000**
 
 ### **Investment vs. Return**:
 - **Litigation Investment**: $90,000-$180,000
