@@ -174,13 +174,14 @@ Your company's conduct violated multiple professional standards:
 
 **4. Professional Abandonment**: You refused to correct known errors and abandoned your professional responsibilities.
 
-### **COORDINATE FRAUD ANALYSIS**
+### **COORDINATE MISDIRECTION FRAUD ANALYSIS**
 
-Analysis reveals additional fraudulent conduct:
-- Your claimed coordinates (N.1222153.447 E2384715.378) do not match any actual survey data
-- Actual pin location is over 100 feet away from your claimed "exact coordinates" - evidence of criminal fraud
-- Your coordinates appear to be approximations, not precise measurements
-- Your claim of "exact coordinates" was false and misleading
+Analysis reveals sophisticated coordinate fraud designed to conceal incomplete work:
+- Your coordinates (N.1222153.447 E2384715.378) point to the **center of the property** (START of Guinn Drive)
+- You deliberately provided coordinates for the **wrong location** while claiming they were for the easement termination pin
+- This coordinate misdirection scheme enabled you to conceal incomplete boundary survey work
+- Your professional deception demonstrates intent to charge for services not properly rendered
+**Source**: ```02_analysis/coordinate_fraud/comprehensive_coordinate_fraud_analysis.md```
 
 ### **DAMAGES FROM YOUR MISCONDUCT**
 
@@ -196,22 +197,23 @@ Your professional failures and fraudulent conduct directly caused substantial da
 
 **Professional Fees**: Substantial costs for independent surveys, legal fees, and expert witnesses.
 
-**Total Estimated Damages**: $600,000-$1,200,000
+**Total Estimated Damages**: $700,000-$1,200,000
 
 ### **PROFESSIONAL LICENSE JEOPARDY**
 
-Your admitted fraudulent conduct places your professional surveying license in serious jeopardy:
+Your coordinate misdirection fraud and admitted misconduct place your professional surveying license in serious jeopardy:
 
-- **Georgia Board of Professional Engineers and Land Surveyors** takes fraud seriously
+- **Georgia Board of Professional Engineers and Land Surveyors** takes coordinate fraud seriously
 - **Marking placed pins as "IPF"** violates professional ethics and regulations
+- **Coordinate misdirection to conceal incomplete work** constitutes professional fraud
 - **Professional abandonment** violates licensing requirements
-- **False precision claims** constitute professional misrepresentation
+- **Deliberate deception regarding coordinate accuracy** constitutes professional misrepresentation
 
 ### **SETTLEMENT DEMAND**
 
-To resolve this matter without litigation and professional licensing complaints, we demand payment of **$350,000** within thirty (30) days of this letter.
+To resolve this matter without litigation and professional licensing complaints, we demand payment of **$425,000** within thirty (30) days of this letter.
 
-This represents a substantial discount from total damages in recognition of the serious consequences you face from professional licensing action and fraud findings.
+This represents a substantial discount from total damages in recognition of the serious consequences you face from professional licensing action and coordinate misdirection fraud findings.
 
 ### **CONSEQUENCES OF REFUSING THIS DEMAND**
 
@@ -465,10 +467,10 @@ Attorney for Michael and Brooke Svoboda
 
 ### **Total Settlement Demands**:
 - **Jackson Title**: $400,000 (strongest liability)
-- **Ironstone Surveying**: $350,000 (fraud with license jeopardy)  
+- **Ironstone Surveying**: $425,000 (coordinate misdirection fraud with license jeopardy)  
 - **Georgia Power**: $200,000 (utility trespass and easement violation)
 - **Kenneth Jones**: $50,000 (limited liability and assets)
-- **TOTAL DEMANDED**: **$1,000,000**
+- **TOTAL DEMANDED**: **$1,075,000**
 
 ### **Strategic Settlement Sequencing**:
 1. **Georgia Power First** - Regulatory exposure and public utility company pressure

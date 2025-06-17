@@ -91,61 +91,75 @@ Plaintiffs, MICHAEL SVOBODA and BROOKE SVOBODA, husband and wife, sue Defendant 
 
 **18.** This constitutes intentional fraud in professional documentation, as Defendant knowingly misrepresented a placed pin as a found pin.
 
-### **D. Coordinate Fraud and False Precision Claims**
+### **D. Coordinate Misdirection Fraud and Professional Deception**
 
-**19.** Analysis of Defendant's claimed coordinates versus actual survey data reveals significant discrepancies evidencing additional fraudulent conduct.
-**Source**: ```02_analysis/coordinate_fraud/comprehensive_coordinate_fraud_analysis.md``` - Section: Professional Standards Analysis
+**19.** Analysis of Defendant's coordinate claims reveals sophisticated professional fraud designed to conceal incomplete survey work.
+**Source**: ```02_analysis/coordinate_fraud/comprehensive_coordinate_fraud_analysis.md``` - Section: Major Coordinate Fraud Discovery
 
-**20.** Defendant claimed "exact coordinates" of N.1222153.447 E2384715.378, but actual DXF survey data shows the nearest point at N.1222153.692742 E.2384715.355801.
+**20.** On May 2, 2022, Defendant provided coordinates N.1222153.447 E2384715.378, claiming these were the "exact coordinates for the pin" marking the Guinn Drive easement termination.
 
-**21.** Investigation reveals that Defendant's claimed "exact coordinates" were over 100 feet away from the actual physical pin location, demonstrating deliberate coordinate fraud rather than measurement error.
+**21.** Investigation reveals that these coordinates point to the **center of the Property** (likely the START of Guinn Drive), not the property boundary where the termination pin was actually located.
 
-**22.** Defendant's use of only 3 decimal places (versus professional standard of 6+ decimal places) further evidences unprofessional practices and false precision claims.
+**22.** Defendant's coordinate misdirection constitutes deliberate professional fraud, as Defendant:
+   a. **Knew the difference** between easement start and termination locations
+   b. **Deliberately provided** coordinates for the wrong location  
+   c. **Concealed incomplete work** by claiming coordinates were for the termination pin
+   d. **Refused verification** by withholding coordinate data from the second survey
 
-**23.** No coordinates matching Defendant's claims appear anywhere in legitimate survey documentation, suggesting they were approximated rather than measured.
+**23.** The coordinate misdirection fraud is evidenced by:
+   a. Defendant's coordinates point to property center, not boundary
+   b. Actual termination pin visible in second survey at different location  
+   c. No coordinate data provided for actual termination pin location
+   d. Professional abandonment when asked for verification
+
+**24.** This coordinate misdirection scheme enabled Defendant to:
+   a. Avoid completing professional boundary survey work
+   b. Conceal the true extent of easement impact on the Property
+   c. Charge for services not properly rendered
+   d. Abandon professional responsibilities while claiming work was complete
 
 ### **E. Professional Abandonment and Admission of Negligence**
 
-**24.** On May 27, 2022, after receiving documentation of the Georgia Power easement, Defendant sent an email containing additional damaging admissions.
+**25.** On May 27, 2022, after receiving documentation of the Georgia Power easement, Defendant sent an email containing additional damaging admissions.
 **Source**: ```1:113:01_source_documents/surveys/ironstone_correspondence.md```
 
-**25.** Defendant admitted: **"we did not have documentation when we originally surveyed your property"**
+**26.** Defendant admitted: **"we did not have documentation when we originally surveyed your property"**
 
-**26.** Defendant further admitted: **"at your insistence removed the easement because we did not have documentation"**
+**27.** Defendant further admitted: **"at your insistence removed the easement because we did not have documentation"**
 
-**27.** These admissions constitute direct evidence of professional negligence in failing to conduct proper research before providing surveying services.
+**28.** These admissions constitute direct evidence of professional negligence in failing to conduct proper research before providing surveying services.
 
-**28.** Most egregiously, Defendant concluded the email stating: **"this matter is closed... we will not provide you with any further service"**
+**29.** Most egregiously, Defendant concluded the email stating: **"this matter is closed... we will not provide you with any further service"**
 
-**29.** This constitutes professional abandonment and refusal to correct known errors in violation of professional surveying standards.
+**30.** This constitutes professional abandonment and refusal to correct known errors in violation of professional surveying standards.
 
 ### **F. Georgia Power Easement Confirmation**
 
-**30.** On May 11, 2022, Georgia Power Company sent Plaintiffs a letter confirming the validity of its 1984 easement, referencing the recording in Butts County Book 8, Page 198.
+**31.** On May 11, 2022, Georgia Power Company sent Plaintiffs a letter confirming the validity of its 1984 easement, referencing the recording in Butts County Book 8, Page 198.
 **Source**: ```1:116:01_source_documents/legal_notices/georgia_power_letter_2022-05-11.md```
 
-**31.** This letter proved that the easement Defendant failed to discover was valid, recorded, and enforceable.
+**32.** This letter proved that the easement Defendant failed to discover was valid, recorded, and enforceable.
 
-**32.** Georgia Power asserted continuous use since 1984 and claimed the easement as "the only means by which Georgia Power's fee-owned parcels currently have access to a public road."
+**33.** Georgia Power asserted continuous use since 1984 and claimed the easement as "the only means by which Georgia Power's fee-owned parcels currently have access to a public road."
 
 ### **G. Damages Resulting from Defendant's Misconduct**
 
-**33.** As a direct and proximate result of Defendant's professional malpractice, fraud, and abandonment, Plaintiffs have suffered substantial damages including:
+**34.** As a direct and proximate result of Defendant's professional malpractice, coordinate misdirection fraud, and abandonment, Plaintiffs have suffered substantial damages including:
 
-**34.** **Construction Delays**: Plaintiffs have been unable to proceed with planned construction due to survey inadequacies and easement uncertainties, resulting in delays of over three (3) years.
+**35.** **Construction Delays**: Plaintiffs have been unable to proceed with planned construction due to survey inadequacies and easement uncertainties, resulting in delays of over three (3) years.
 **Source**: ```1:193:02_analysis/timeline/case_timeline.md```
 
-**35.** **Incomplete Survey Work**: Defendant's failure to locate easement termination points has left Plaintiffs without crucial buildable area information necessary for development.
+**36.** **Incomplete Survey Work**: Defendant's failure to locate easement termination points has left Plaintiffs without crucial buildable area information necessary for development.
 **Source**: ```02_analysis/coordinate_fraud/comprehensive_coordinate_fraud_analysis.md``` - Section: Pin Analysis & Professional Deception
 
-**36.** **Construction Cost Inflation**: During the delay period, construction costs have increased by 30-50%, resulting in additional costs of $120,000-$200,000.
+**37.** **Construction Cost Inflation**: During the delay period, construction costs have increased by 30-50%, resulting in additional costs of $120,000-$200,000.
 **Source**: ```1:263:02_analysis/damages/construction_delays.md```
 
-**37.** **Interest Rate Impact**: Mortgage interest rates increased from 3-4% to 6-7% during the delay period, resulting in additional financing costs of $192,000-$258,000.
+**38.** **Interest Rate Impact**: Mortgage interest rates increased from 3-4% to 6-7% during the delay period, resulting in additional financing costs of $192,000-$258,000.
 
-**38.** **Lost Use**: Plaintiffs have been deprived of the use of their Property for residential purposes, suffering damages equivalent to rental costs of $72,000-$126,000.
+**39.** **Lost Use**: Plaintiffs have been deprived of the use of their Property for residential purposes, suffering damages equivalent to rental costs of $72,000-$126,000.
 
-**39.** **Professional Fees**: Plaintiffs have incurred and will continue to incur costs for independent surveys, legal fees, and expert witnesses to address Defendant's professional failures.
+**40.** **Professional Fees**: Plaintiffs have incurred and will continue to incur costs for independent surveys, legal fees, and expert witnesses to address Defendant's professional failures.
 
 ---
 
@@ -153,68 +167,75 @@ Plaintiffs, MICHAEL SVOBODA and BROOKE SVOBODA, husband and wife, sue Defendant 
 
 ### **COUNT I - PROFESSIONAL MALPRACTICE**
 
-**40.** Plaintiffs reallege and incorporate paragraphs 1-39.
+**41.** Plaintiffs reallege and incorporate paragraphs 1-40.
 
-**41.** Defendant owed Plaintiffs a professional duty to conduct surveying services in accordance with applicable professional standards.
+**42.** Defendant owed Plaintiffs a professional duty to conduct surveying services in accordance with applicable professional standards.
 
-**42.** Defendant breached this duty by:
+**43.** Defendant breached this duty by:
    a. Failing to discover recorded easements through proper research
    b. Providing incomplete survey work without easement termination points
-   c. Abandoning professional responsibilities and refusing to correct errors
+   c. Engaging in coordinate misdirection fraud to conceal incomplete work
+   d. Abandoning professional responsibilities and refusing to correct errors
 
-**43.** Defendant's conduct fell below the standard of care required of professional surveyors in Georgia.
+**44.** Defendant's conduct fell below the standard of care required of professional surveyors in Georgia.
 
-**44.** As a direct and proximate result of Defendant's criminal fraud and professional malpractice, Plaintiffs have suffered damages in excess of $600,000, with punitive damages warranted due to the criminal nature of Defendant's conduct.
+**45.** As a direct and proximate result of Defendant's coordinate misdirection fraud and professional malpractice, Plaintiffs have suffered damages in excess of $700,000, with punitive damages warranted due to the deliberate fraudulent nature of Defendant's conduct.
 
 **WHEREFORE**, Plaintiffs demand judgment against Defendant for compensatory damages, pre-judgment interest, costs, and such other relief as the Court deems just and proper.
 
-### **COUNT II - FRAUD**
+### **COUNT II - FRAUD AND COORDINATE MISDIRECTION**
 
-**45.** Plaintiffs reallege and incorporate paragraphs 1-44.
+**46.** Plaintiffs reallege and incorporate paragraphs 1-45.
 
-**46.** Defendant knowingly made false representations by:
+**47.** Defendant knowingly made false representations by:
    a. Marking a placed pin as "IPF" (Iron Pin Found)
-   b. Claiming "exact coordinates" that were approximations
-   c. Representing complete survey work while omitting material easements
+   b. **Coordinate Misdirection**: Providing coordinates for property center while claiming they were for easement termination
+   c. Claiming "exact coordinates" for termination pin while deliberately providing wrong location
+   d. Representing complete survey work while omitting material easements
+   e. Concealing incomplete boundary survey through coordinate deception
 
-**47.** Defendant knew these representations were false at the time they were made.
+**48.** Defendant knew these representations were false at the time they were made, specifically knowing that:
+   a. The provided coordinates pointed to the wrong location (property center vs. boundary)
+   b. Professional survey standards require accurate location identification
+   c. The easement termination remained undefined despite claims of completion
 
-**48.** Defendant made these representations with intent to deceive Plaintiffs.
+**49.** Defendant made these representations with intent to deceive Plaintiffs and conceal incomplete professional work.
 
-**49.** Plaintiffs justifiably relied on Defendant's professional representations.
+**50.** Plaintiffs justifiably relied on Defendant's professional representations regarding coordinate accuracy and survey completeness.
 
-**50.** As a direct result of Defendant's fraud, Plaintiffs have suffered substantial damages.
+**51.** As a direct result of Defendant's coordinate misdirection fraud, Plaintiffs have suffered substantial damages exceeding $700,000.
 
 **WHEREFORE**, Plaintiffs demand judgment against Defendant for compensatory damages, punitive damages, attorney's fees, costs, and such other relief as the Court deems just and proper.
 
 ### **COUNT III - BREACH OF CONTRACT**
 
-**51.** Plaintiffs reallege and incorporate paragraphs 1-50.
+**52.** Plaintiffs reallege and incorporate paragraphs 1-51.
 
-**52.** The surveying services agreement constituted a contract between Plaintiffs and Defendant.
+**53.** The surveying services agreement constituted a contract between Plaintiffs and Defendant.
 
-**53.** Defendant breached the contract by:
+**54.** Defendant breached the contract by:
    a. Failing to provide complete and accurate survey services
    b. Failing to discover recorded easements affecting the Property
-   c. Abandoning the project and refusing to provide corrections
+   c. Engaging in coordinate misdirection to conceal incomplete work
+   d. Abandoning the project and refusing to provide corrections
 
-**54.** As a direct result of Defendant's breach, Plaintiffs have suffered substantial damages.
+**55.** As a direct result of Defendant's breach, Plaintiffs have suffered substantial damages.
 
 **WHEREFORE**, Plaintiffs demand judgment against Defendant for compensatory damages, consequential damages, attorney's fees, costs, and such other relief as the Court deems just and proper.
 
 ### **COUNT IV - NEGLIGENT MISREPRESENTATION**
 
-**55.** Plaintiffs reallege and incorporate paragraphs 1-54.
+**56.** Plaintiffs reallege and incorporate paragraphs 1-55.
 
-**56.** Defendant represented that it had conducted a complete and professional survey of the Property.
+**57.** Defendant represented that it had conducted a complete and professional survey of the Property.
 
-**57.** Defendant knew or should have known that Plaintiffs would rely on its professional representations in making development decisions.
+**58.** Defendant knew or should have known that Plaintiffs would rely on its professional representations in making development decisions.
 
-**58.** Defendant's representations were false and misleading.
+**59.** Defendant's representations were false and misleading, including coordinate misdirection and incomplete boundary work.
 
-**59.** Plaintiffs justifiably relied on Defendant's representations to their detriment.
+**60.** Plaintiffs justifiably relied on Defendant's representations to their detriment.
 
-**60.** As a direct result, Plaintiffs have suffered substantial damages.
+**61.** As a direct result, Plaintiffs have suffered substantial damages.
 
 **WHEREFORE**, Plaintiffs demand judgment against Defendant for compensatory damages, consequential damages, costs, and such other relief as the Court deems just and proper.
 
@@ -224,9 +245,9 @@ Plaintiffs, MICHAEL SVOBODA and BROOKE SVOBODA, husband and wife, sue Defendant 
 
 **WHEREFORE**, Plaintiffs respectfully request this Honorable Court:
 
-**A.** Award Plaintiffs compensatory damages in excess of $600,000;
+**A.** Award Plaintiffs compensatory damages in excess of $750,000;
 
-**B.** Award Plaintiffs punitive damages due to Defendant's criminal fraud and willful misconduct;
+**B.** Award Plaintiffs punitive damages due to Defendant's coordinate misdirection fraud and willful professional misconduct;
 
 **C.** Award Plaintiffs consequential damages for construction delays, cost inflation, and lost use;
 
@@ -234,9 +255,11 @@ Plaintiffs, MICHAEL SVOBODA and BROOKE SVOBODA, husband and wife, sue Defendant 
 
 **E.** Award Plaintiffs reasonable attorney's fees and costs;
 
-**F.** Order Defendant to correct the fraudulent survey documentation;
+**F.** Order Defendant to correct the fraudulent survey documentation and provide accurate coordinate data;
 
-**G.** Award such other relief as this Court deems just and proper.
+**G.** Award enhanced damages due to the deliberate and sophisticated nature of Defendant's coordinate deception scheme;
+
+**H.** Award such other relief as this Court deems just and proper.
 
 ---
 
