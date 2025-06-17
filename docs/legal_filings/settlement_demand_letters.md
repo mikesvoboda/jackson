@@ -388,7 +388,11 @@ The easement Georgia Power reserved in its June 12, 1984 deed was explicitly lim
 
 **Timing Benefits Georgia Power**: The suspicious timing of Ironstone's second site visit - followed by the sudden placement of a pin marked as "IPF" (Iron Pin Found) - created an easement path favorable to Georgia Power's access needs.
 
-**Joint Liability for Surveyor Fraud**: Georgia Power's coordination with Ironstone in creating fraudulent survey documentation makes Georgia Power jointly liable for all damages caused by the surveyor's professional malpractice, fraud, and abandonment, including construction delays, cost inflation, and professional fees totaling $500,000-$700,000.
+**Strategic Timing and Bad Faith**: Georgia Power knew about the 1984 easement for 37 years but strategically withheld this information during the property sale process, then timed their May 11, 2022 pressure letter to interfere with the professional surveyor-client relationship after the survey was completed but defective.
+
+**Interference with Professional Services**: Georgia Power's calculated timing pressured Ironstone into abandoning their professional responsibilities to clients and revising their survey to favor Georgia Power's interests, demonstrating bad faith interference with professional services.
+
+**Joint Liability for Surveyor Fraud**: Georgia Power's strategic timing and pressure campaign makes them jointly liable for all damages caused by the resulting fraudulent survey documentation, including construction delays, cost inflation, and professional fees totaling $500,000-$700,000.
 
 ### **CLEAR EASEMENT SCOPE VIOLATION**
 
@@ -433,9 +437,11 @@ Georgia Power's use of the easement for water line infrastructure constitutes a 
 
 **Lost Use and Possession**: $10,000-$25,000 for ongoing interference with exclusive property rights
 
-**Joint Liability for Surveyor Fraud**: $500,000-$700,000 for Georgia Power's coordination in fraudulent survey documentation causing construction delays, cost inflation, lost use, and professional fees
+**Interference with Professional Services**: $100,000-$150,000 for strategic timing that interfered with surveyor-client relationship and forced Plaintiffs to seek alternative professional assistance
 
-**Total Estimated Damages**: $625,000-$1,000,000
+**Joint Liability for Surveyor Fraud**: $500,000-$700,000 for Georgia Power's strategic timing and pressure campaign resulting in fraudulent survey documentation causing construction delays, cost inflation, lost use, and professional fees
+
+**Total Estimated Damages**: $725,000-$1,150,000
 
 ### **REGULATORY AND BUSINESS IMPLICATIONS**
 
@@ -447,18 +453,19 @@ Georgia Power's use of the easement for water line infrastructure constitutes a 
 
 ### **SETTLEMENT DEMAND**
 
-To resolve this matter without litigation and regulatory complaints, we demand payment of **$500,000** within thirty (30) days of this letter.
+To resolve this matter without litigation and regulatory complaints, we demand payment of **$600,000** within thirty (30) days of this letter.
 
 This amount represents:
 - Fair market value of unauthorized utility easement rights taken
 - Compensation for property value diminution and development interference
 - Restitution for benefits received from unauthorized property use
+- Damages for strategic timing and interference with professional services
 - Joint liability settlement for coordination in surveyor fraud
 - A substantial discount from total potential damages to avoid litigation costs
 
 ### **CONSEQUENCES OF REFUSING THIS DEMAND**
 
-**Civil Litigation**: We will file suit for easement scope violation, conspiracy and coordination in surveyor fraud, trespass, conversion, unjust enrichment, and negligent misrepresentation, seeking compensatory and punitive damages.
+**Civil Litigation**: We will file suit for easement scope violation, conspiracy and coordination in surveyor fraud, interference with professional services, trespass, conversion, unjust enrichment, and negligent misrepresentation, seeking compensatory and punitive damages.
 
 **Joint Liability Claims**: We will pursue joint and several liability claims with Ironstone Surveying for all damages caused by coordinated fraudulent survey documentation.
 
@@ -495,9 +502,9 @@ Attorney for Michael and Brooke Svoboda
 ### **Total Settlement Demands**:
 - **Jackson Title**: $400,000 (strongest liability)
 - **Ironstone Surveying**: $425,000 (coordinate misdirection fraud with license jeopardy)  
-- **Georgia Power**: $500,000 (utility trespass, easement violation, and joint liability for surveyor fraud coordination)
+- **Georgia Power**: $600,000 (utility trespass, easement violation, strategic timing interference, and joint liability for surveyor fraud)
 - **Kenneth Jones**: $50,000 (limited liability and assets)
-- **TOTAL DEMANDED**: **$1,375,000**
+- **TOTAL DEMANDED**: **$1,475,000**
 
 ### **Strategic Settlement Sequencing**:
 1. **Georgia Power First** - Regulatory exposure and public utility company pressure
